@@ -1,0 +1,23 @@
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="WebForm4.aspx.cs" Inherits="WebApplication1.WebForm4" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+
+    <link rel="stylesheet" type="text/css" href="css.css">
+
+    <title>Main Page</title>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+    
+        <asp:Label ID="Label1" runat="server" Text="אתר ראשי" style="position: absolute; z-index: 1; left: 654px; top: 89px"></asp:Label>
+    
+    </div>
+    </form>
+    <p>
+        &nbsp;</p>
+</body>
+</html>

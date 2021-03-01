@@ -1,0 +1,13 @@
+F:\Project\Games\Game2\Game2\Game2\bin\Debug\Game2.exe.config
+F:\Project\Games\Game2\Game2\bin\Debug\Game2.exe.config
+F:\Project\Games\Game2\Game2\obj\Debug\Game2.Properties.Resources.resources
+F:\Project\Games\Game2\Game2\obj\Debug\Game2.csproj.GenerateResource.Cache
+F:\Project\Games\Game2\Game2\bin\Debug\Game2.exe
+F:\Project\Games\Game2\Game2\bin\Debug\Game2.pdb
+F:\Project\Games\Game2\Game2\obj\Debug\Game2.exe
+F:\Project\Games\Game2\Game2\obj\Debug\Game2.pdb
+F:\Project\Games\Game2\Game2\obj\Debug\Game2.Form1.resources
+D:\Project\Games\Game2\Game2\bin\Debug\Game2.exe.config
+D:\Project\Games\Game2\Game2\obj\Debug\Game2.exe
+D:\Project\Games\Game2\Game2\obj\Debug\Game2.pdb
+F:\Project\Games\Game2\Game2\obj\Debug\Game2.csprojResolveAssemblyReference.cache

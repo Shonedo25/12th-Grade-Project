@@ -1,0 +1,10 @@
+F:\Project\Games\Game2\Game2\bin\x64\Debug\Game2.exe.config
+F:\Project\Games\Game2\Game2\bin\x64\Debug\Game2.exe
+F:\Project\Games\Game2\Game2\bin\x64\Debug\Game2.pdb
+F:\Project\Games\Game2\Game2\obj\x64\Debug\Game2.Form1.resources
+F:\Project\Games\Game2\Game2\obj\x64\Debug\Game2.Properties.Resources.resources
+F:\Project\Games\Game2\Game2\obj\x64\Debug\Game2.csproj.GenerateResource.cache
+F:\Project\Games\Game2\Game2\obj\x64\Debug\Game2.csproj.CoreCompileInputs.cache
+F:\Project\Games\Game2\Game2\obj\x64\Debug\Game2.exe
+F:\Project\Games\Game2\Game2\obj\x64\Debug\Game2.pdb
+F:\Project\Games\Game2\Game2\obj\x64\Debug\Game2.csprojAssemblyReference.cache

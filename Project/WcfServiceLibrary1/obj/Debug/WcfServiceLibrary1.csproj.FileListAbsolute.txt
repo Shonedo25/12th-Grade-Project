@@ -1,0 +1,16 @@
+F:\Project\Project\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+F:\Project\Project\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+F:\Project\Project\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+F:\Project\Project\WcfServiceLibrary1\bin\Debug\Project.exe
+F:\Project\Project\WcfServiceLibrary1\bin\Debug\Project.pdb
+F:\Project\Project\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+F:\Project\Project\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+D:\Project\Project\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+D:\Project\Project\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+D:\Project\Project\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+D:\Project\Project\WcfServiceLibrary1\bin\Debug\Project.exe
+D:\Project\Project\WcfServiceLibrary1\bin\Debug\Project.pdb
+D:\Project\Project\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
+D:\Project\Project\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+D:\Project\Project\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+F:\Project\Project\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csprojResolveAssemblyReference.cache
